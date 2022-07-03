@@ -1,0 +1,5 @@
+{
+	"editor.mouseWheelZoom": true,
+	"diffEditor.codeLens": true,
+	"editor.formatOnSave": true
+}
